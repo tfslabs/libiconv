@@ -3,7 +3,7 @@ name: libiconv core forking for GitHub Actions
 on:
   push:
     branches:
-      - no-available-just-rename-in-case-you-want
+      - 1.17
 
 permissions:
   contents: write
